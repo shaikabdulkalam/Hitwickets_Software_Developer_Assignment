@@ -7,7 +7,7 @@ class PieceType:
     PAWN = "pawn"
 
 
-CHESS_BOARD_SIZE = 8
+CHESS_BOARD_SIZE = 5
 
 INITIAL_PIECE_SET_SINGLE = [
     (PieceType.ROOK, 0, 0),
