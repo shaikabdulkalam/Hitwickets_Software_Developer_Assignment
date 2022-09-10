@@ -22,8 +22,5 @@ INITIAL_PIECE_SET_SINGLE = [
     (PieceType.PAWN, 1, 1),
     (PieceType.PAWN, 2, 1),
     (PieceType.PAWN, 3, 1),
-    (PieceType.PAWN, 4, 1),
-    (PieceType.PAWN, 5, 1),
-    (PieceType.PAWN, 6, 1),
-    (PieceType.PAWN, 7, 1)
+    (PieceType.PAWN, 4, 1)
 ]
